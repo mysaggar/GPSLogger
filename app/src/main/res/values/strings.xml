@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPSLogger</string>
+    <string name="latLabel">Latitude :</string>
+    <string name="longLabel">Longitude :</string>
+    <string name="speedLabel">Speed :</string>
+    <string name="latValue">0.0</string>
+    <string name="longValue">0.0</string>
+    <string name="speedValue">0.0</string>
+    <string name="startLabel">Start</string>
+    <string name="stopLabel">Stop</string>
+    <string name="viewMapsLabel">View Maps</string>
+    <string name="title_activity_gps_marker">Map</string>
+    <string name="title_location_permission">Permission</string>
+    <string name="text_location_permission">Allow GPSLogger to access your location?</string>
+    <string name="ok">Ok!</string>
+</resources>
