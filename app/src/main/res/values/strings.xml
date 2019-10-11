@@ -13,4 +13,5 @@
     <string name="title_location_permission">Permission</string>
     <string name="text_location_permission">Allow GPSLogger to access your location?</string>
     <string name="ok">Ok!</string>
+    <string name="defaultValue">0.0</string>
 </resources>
