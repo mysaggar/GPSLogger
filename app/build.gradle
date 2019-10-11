@@ -29,4 +29,6 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation files('libs/opencsv-4.6.jar')
+    implementation 'com.nbsp:library:1.8'
+    implementation group: 'org.apache.commons', name: 'commons-lang3', version: '3.9'
 }
